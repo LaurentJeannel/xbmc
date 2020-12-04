@@ -1,0 +1,18 @@
+﻿<item>droite;à droite<tag>data.valuexbmc="right"</tag></item>
+<item>gauche;à gauche<tag>data.valuexbmc="left"</tag></item>
+<item>en haut;monte<tag>data.valuexbmc="up"</tag></item>
+<item>en bas;decends<tag>data.valuexbmc="down"</tag></item>
+
+<item>menu principal<tag>data.valuexbmc="home"</tag></item>
+
+<item>affiche les films<tag>data.valuexbmc="showfilm"</tag></item>
+
+<item>retour<tag>data.valuexbmc="back"</tag></item>
+
+<item>ok;entrée,validé<tag>data.valuexbmc="select"</tag></item>
+<item>stop<tag>data.valuexbmc="stop"</tag></item>
+<item>pause;lecture<tag>data.valuexbmc="pause"</tag></item>
+
+<item>lance le film<tag>data.valuexbmc="playfilm";data.txtxmbc="lance le film"</tag></item>
+
+<item>coupe la télécommande<tag>data.tts="ok fermé";data.lazy="off"</tag></item>
