@@ -1,5 +1,6 @@
 exports.action = function (data) {
 try{
+var listfilm={"jsonrpc": "2.0", "method": "VideoLibrary.GetMovies", "params": { "filter": {"field": "playcount", "operator": "is", "value": "0"}, "properties" : ["art", "rating", "thumbnail", "playcount", "file"], "sort": { "order": "ascending", "method": "label", "ignorearticle": false } }, "id": "libMovies"}
 
 var xbmc_api_url='http://127.0.0.1:7979/jsonrpc';
 
