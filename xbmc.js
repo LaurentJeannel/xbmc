@@ -117,7 +117,8 @@ if(typeof listefilmxbmc==="undefined"){
 	
 try{	
 var v=result.result.movies[i];
-var temp=v['file'];
+console.log(v)
+var temp=v['label'];
 temp=temp.toLowerCase().trim()
 temp=temp.split('/');
 var templength=temp.length

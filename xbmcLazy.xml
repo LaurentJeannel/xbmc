@@ -9,7 +9,7 @@
 
 <item>retour<tag>data.valuexbmc="back"</tag></item>
 
-<item>ok;entrée,validé<tag>data.valuexbmc="select"</tag></item>
+<item>ok;entrée;validé<tag>data.valuexbmc="select"</tag></item>
 <item>stop<tag>data.valuexbmc="stop"</tag></item>
 <item>pause;lecture<tag>data.valuexbmc="pause"</tag></item>
 
